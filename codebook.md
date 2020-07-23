@@ -18,12 +18,6 @@ Industrie (I)
 Wissenschaft (W)
 Regionalvertreter (R)
 
-weight (Beziehungsintensität)
-1= kein Stimmrecht/ ehemaliges Mandat
-2= Stimmrecht/ aktives Mandat
-3= Ministeramt
-
-
 
 Nodelist
 id (muss identisch zur Edgelist sein)
