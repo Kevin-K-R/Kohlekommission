@@ -21,7 +21,7 @@ Regionalvertreter (R)
 weight (Beziehungsintensität)
 1= kein Stimmrecht/ ehemaliges Mandat
 2= Stimmrecht/ aktives Mandat
-3= aktives Mandat/ Ministeramt
+3= Ministeramt
 
 
 
