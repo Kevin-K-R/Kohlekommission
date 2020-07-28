@@ -2,7 +2,7 @@ id,belonging
 PLA,SPD
 POF,CDU
 POF,Indu
-PRA,Umwe/ Wiss
+PRA,Umwe
 TIL,CDU
 HAS,CSU
 HAS,Verb
@@ -16,8 +16,8 @@ REI,CDU
 REI,Verb
 ROE,GRU
 ROE,Ener
-SCHW,Verb/Vere
-SCHW,Indu/ Ener
+SCHW,Verb
+SCHW,Indu
 GRO,Regi
 GRO,Vere
 GRO,Umwe
