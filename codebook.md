@@ -5,7 +5,6 @@
 id												
 (eindeutige Codierung des Knoten)												
 codiert als Abkürzung der Namen mit drei oder vier Buchstaben zur Identifikation der Mitglieder der Kohlekommission.												
-												
 To (belonging)												
 												
 Politik (Poli)												
@@ -22,12 +21,7 @@ CSU
 SPD												
 GRU												
 FDP												
-												
-weight												
-Intensität der Beziehung; bzw. Einfluss												
-1 = ohne Stimmrecht / Parteimitglied / ehemaliges Mandat												
-2 = Stimmrecht / aktives Mandat												
-3 = aktives Mandat / Ministeramt												
+															
 												
 ## NODE-Attribute												
 												
@@ -125,22 +119,4 @@ Bezieht sich auf das Herkunfts-Bundesland der Kommissionsmitglieder
 												
 16= Thüringen												
 												
-												
-												
-												
-												
-												
-												
-												
-												
-												
-												
-												
-												
-												
-												
-												
-												
-												
-												
-												
+											
